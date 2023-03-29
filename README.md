@@ -1,4 +1,4 @@
-# SALT - Landing Zones
+# CanSat Landing Zones
 
 A [Python](https://www.python.org/) script to analyze aerial pictures using computer vision and match the outputs to GPS coordinates.
 
