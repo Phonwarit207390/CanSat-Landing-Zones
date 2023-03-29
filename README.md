@@ -1,6 +1,6 @@
 # CanSat Landing Zones
 
-A [Python](https://www.python.org/) script to analyze aerial pictures using computer vision and match the outputs to GPS coordinates.
+A [Python](https://www.python.org/) script to analyze aerial pictures using computer vision and match the outputs to GPS coordinates. Used for *CanSat in Greece 2023 | Team SALT*.
 
 ## Author
 
