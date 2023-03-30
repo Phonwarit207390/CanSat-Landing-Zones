@@ -8,6 +8,18 @@ A [Python](https://www.python.org/) script to analyze aerial pictures using comp
 
 Contact: <vtrikkalidis@gmail.com>
 
+## Artificial Intelligence
+
+- **Artificial Intelligence:** the development of computer systems that can perform tasks that would normally require human intelligence
+
+- **Machine Learning:** a type of *Artificial Intelligence* that allows computer systems to automatically learn and improve from experience without being explicitly programmed
+
+- **Deep Learning:** a subset of *Machine Learning* that uses artificial *Neural Networks* with multiple layers to model and solve complex problems
+
+- **Neural Networks:** a set of algorithms modeled after the structure and function of the human brain
+
+- **Computer Vision:** a field of *Artificial Intelligence* that focuses on enabling computers to interpret and understand visual information from the world around them, including images and videos
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable) to install the **Roboflow** package ([Documentation](https://docs.roboflow.com/)). 
@@ -58,6 +70,12 @@ latitude,longitude
 > # result.save(f'data\{image["name"]}.jpg')
 > ```
 > This line saves the new picture with the predictions.
+
+## Results
+
+The *Computer Vision* model achieved high accuracy, precision, low error rates, and consistent results. View [here](/data/video.m4v).
+
+![image1](/data/image1.jpg)
 
 ## License
 
